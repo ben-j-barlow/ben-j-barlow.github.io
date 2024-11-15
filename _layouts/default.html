@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <header class="site-header">
+      <div class="header-content">
+        <a class="site-title" href="{{ '/' | relative_url }}">BEN BARLOW</a>
+        <nav class="site-nav">
+          <a class="page-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">home</a>
+          <a class="page-link{% if page.url contains 'blog' %} active{% endif %}" href="{{ '/blog' | relative_url }}">blog</a>
+          <a class="page-link{% if page.url contains 'data' %} active{% endif %}" href="{{ '/data' | relative_url }}">my life in data</a>
+          <a class="page-link{% if page.url contains 'projects' %} active{% endif %}" href="{{ '/projects' | relative_url }}">projects</a>
+          <a class="page-link{% if page.url contains 'cv' %} active{% endif %}" href="{{ '/cv' | relative_url }}">cv</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
