@@ -1,4 +1,3 @@
-<!-- data.md -->
 ---
 layout: default
 title: My Life in Data
