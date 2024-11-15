@@ -1,4 +1,3 @@
-<!-- cv.md -->
 ---
 layout: default
 title: CV
