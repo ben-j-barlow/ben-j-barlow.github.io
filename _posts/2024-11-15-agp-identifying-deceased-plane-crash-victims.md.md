@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "The AI Perception Gap: Identifying Deceased Plane Crash Victims"
+title: Ben Barlow | AI Perception Gap
 date: 2024-11-15
 author: Ben Barlow
 tags: [AI Perception Gap]
 ---
+
+# The AI Perception Gap: Identifying Deceased Plane Crash Victims
 
 ## The Story Behind The Crash
 
