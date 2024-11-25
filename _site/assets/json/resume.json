@@ -1,0 +1,218 @@
+{
+  "education_description": "My undergraduate studies taught foundations in mathematics, statistics, and computer science. My postgraduate programme comprised statistics courses in Bayesian methods, but was dominated by ML courses in pattern recognition, probabilistic ML, reinforcement learning, and deep learning.",
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "url": "https://postgraduate.degrees.ed.ac.uk/?r=site/view&edition=2025&id=107Arti",
+      "area": "",
+      "studyType": "MSc in Artificial Intelligence (Part-time)",
+      "startDate": "2022-09-01",
+      "endDate": "2024-08-31",
+      "score": "Distinction",
+      "courses": ["Machine Learning (Pattern Recognition, RL, DL, Probabilistic ML)", "Statistics (Bayesian Methods, Imputation)"]
+    },
+    {
+      "institution": "University of Warwick",
+      "location": "Coventry, UK",
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-data-science/",
+      "area": "",
+      "studyType": "BSc in Data Science",
+      "startDate": "2017-10-01",
+      "endDate": "2020-06-30",
+      "score": "First-class with Honours",
+      "courses": ["Computer Science (OOP, Algorithms, Information Structures)", "Statistics (Foundations, Frequentist Approaches, GLMs)", "Probability (Foundations, Stochastic Modelling)", "Mathematics (Linear Algebra, Multivariate Calculus)", "Machine Learning (Overview)"]
+    }    
+  ],
+  "work": [
+    {
+      "name": "FC Laboratories Limited",
+      "position": "Data Scientist (Part-time)",
+      "url": "https://www.linkedin.com/company/fclabs/",
+      "startDate": "2023-10",
+      "endDate": "",
+      "summary": "A part-time role alongside postgraduate studies. Working on a contractual basis, having received two contract extensions.",
+      "location": "Edinburgh, UK"
+    },
+    {
+      "name": "Data Science Unit, School of Informatics, University of Edinburgh",
+      "position": "Python Developer (Part-time)",
+      "url": "https://web.inf.ed.ac.uk/data-science-unit/about-us",
+      "startDate": "2023-01",
+      "endDate": "2023-04",
+      "summary": "A part-time role alongside postgraduate studies. Streamlined the school's in-house Data Science Unit's research projects by creating a bespoke graph plotting library.",
+      "highlights": [
+        "Gathered core project requirements into a detailed specification to ensure a clear definition of project scope.",
+        "Conceptualised, implemented, and tested appropriate classes and methods.",
+        "Identified performance bottlenecks in the source code through memory and time profiling to optimise its execution.",
+        "Published package to PyPI to allow the team to visualise clustering trees with custom images included in the visual output."
+      ],
+      "location": "Edinburgh, UK"
+    },
+    {
+      "name": "Account Technologies",
+      "position": "Decision Scientist",
+      "url": "https://www.accounttechnologies.com",
+      "startDate": "2020-10",
+      "endDate": "2022-07",
+      "summary": "Interacted with transactional, credit bureau, operational, financial, compliance, marketing, and customer data using Python to develop bespoke packages and the PyData stack to visualise data, train machine learning models, and report on business metrics.",
+      "location": "London, UK",
+      "highlights": [
+        "Enabled insight into profitability of credit line by creating a bespoke OOP system that operated on transactional data.",
+        "Built a logistic regression model to maximise profitability by efficiently allocating credit limit increases to the most profitable customers. Conducted EDA, data cleaning, and dependent variable selection; handled categorical predictors and missing data; selected predictor variables. Increased profitability from 22p to 33p per £1 credit limit increase.",
+        "Increased profitability by £10000s by by automating manual processes for identifying profitable populations of applicants to acquire. Increased monthly testing from 10 to 10000 policies by automating decision tree hyperparameter manipulation. Performed single-group z-tests to determine if hypothesised profitability increases were statistically significant.",
+        "Read 'Effective Python: 90 Ways to Write Better Python' and presented key learnings to new hires.",
+        "Developed production code to serve fake bank account transactions via a web app for UAT (FastAPI, SQLAlchemy, Docker)."
+      ]
+     }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Warwick Men's Football Club",
+      "location": "Coventry, UK",
+      "position": "1st XI Captain",
+      "url": "https://example.com",
+      "startDate": "2019-04-01",
+      "endDate": "2020-04-01",
+      "summary": "Responsible for the day-to-day football-related operations of 4 teams (80 players) and led the 1st team on match days.",
+      "highlights": ["Organised and delivered pitch-, track-, and gym-based sessions for 50 club members during a 1-month pre-season programme.", "Led and motivated a 20-man multi-cultural team."]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dissertation Award",
+      "date": "2020-06-30",
+      "awarder": "School of Statistics, University of Warwick",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Received a cash prize for attaining the highest dissertation mark in the BSc Data Science cohort."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    },
+    {
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+    },
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Python",
+      "icon": ""
+    },
+    {
+      "language": "SQL",
+      "icon": ""
+    },
+    {
+      "language": "R",
+      "icon": ""
+    },
+    {
+      "language": "Julia",
+      "icon": ""
+    },
+    {
+      "language": "Java",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
+}
