@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Scientist at <a href='#'>FC Laboratories Ltd</a>
 
 profile:
   align: right
@@ -20,4 +20,4 @@ I earned a Bachelor of Science in Data Science from the University of Warwick in
 
 In industry, I have 3 years of experience in Python development, data analysis, and ML. I've gained these skills during professional roles at a FinTech, HealthTech, and in a research environment at the University of Edinburgh's School of Informatics.
 
-I use my personal website to express my passion in data and AI, provide a portfolio of projects, and provide insights into my personal interests. I value my values passion and honesty above all else.
+My personal site aims to reshape Gen Z's perception of artificial intelligence and its applications through my blog, <a href='/blog/category/ai-perception-gap/'>AI Perception Gap</a>. It also serves as a platform to highlight my portfolio of projects and explore my personal interests.

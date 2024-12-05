@@ -172,16 +172,6 @@
             
           
             
-              
-                
-                <li class="nav-item ">
-                  
-                  <a class="nav-link" href="/projects/">projects
-                    
-                  </a>
-                </li>
-              
-            
           
             
               
@@ -263,6 +253,30 @@
 <div class="row">
   
     <div class="col col-sm-2 abbr">
+      
+        
+          
+          
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/publication_preview/3-480.webp 480w,/assets/img/publication_preview/3-800.webp 800w,/assets/img/publication_preview/3-1400.webp 1400w," type="image/webp" sizes="200px"></source>
+    
+    <img src="/assets/img/publication_preview/3.jpg" class="preview z-depth-1 rounded" width="100%" height="auto" alt="3.jpg" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+
+  
+</figure>
+
+        
       
     </div>
   
@@ -549,7 +563,7 @@ The results demonstrate that our approach can accurately and confidently estimat
     
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
-        <p>Model-based clustering has largely focused on mixtures where the component distributions correspond to the multivariate normal distribution. A detailed review of such mixtures, their estimation through expectation-maximization algorithm and an analysis of their comprehensive implementation *mclust* are all given here. Later, a new flexible family of regularized copula-based mixture models are introduced for cluster analysis, which are considered an extension of mixtures of copulas offered in recent literature. The technique sees a shrinkage-driven approach to selecting dependence structure permitted by unconstrained parameterization of the copula parameter using angles. An appropriate procedure for estimation through expectation-conditional-maximization (ECM), framework for model selection that maximizes cluster separation and in-depth discussion regarding computational details are all included. The new clustering technique is illustrated by the study of simulated and real data and is shown to outperform previous proposals. In addition, the report encompasses a description and documentation of the R package *rcbmm*, which facilitates the new methods and contains the first general ECM implementation available in R. Finally, limitations of the regularized copula-based mixture model and its implementation are outlined alongside a suggestion for future research directions.</p>
+        <p>Model-based clustering has largely focused on mixtures where the component distributions correspond to the multivariate normal distribution. A detailed review of such mixtures, their estimation through expectation-maximization algorithm and an analysis of their comprehensive implementation mclust are all given here. Later, a new flexible family of regularized copula-based mixture models are introduced for cluster analysis, which are considered an extension of mixtures of copulas offered in recent literature. The technique sees a shrinkage-driven approach to selecting dependence structure permitted by unconstrained parameterization of the copula parameter using angles. An appropriate procedure for estimation through expectation-conditional-maximization (ECM), framework for model selection that maximizes cluster separation and in-depth discussion regarding computational details are all included. The new clustering technique is illustrated by the study of simulated and real data and is shown to outperform previous proposals. In addition, the report encompasses a description and documentation of the R package rcbmm, which facilitates the new methods and contains the first general ECM implementation available in R. Finally, limitations of the regularized copula-based mixture model and its implementation are outlined alongside a suggestion for future research directions.</p>
       </div>
     
 
@@ -585,7 +599,7 @@ The results demonstrate that our approach can accurately and confidently estimat
 
       
       
-        Last updated: November 25, 2024.
+        Last updated: December 05, 2024.
       
     </div>
   </footer>
@@ -825,13 +839,6 @@ The results demonstrate that our approach can accurately and confidently estimat
               handler: () => {
                 window.location.href = "/research/";
               },
-            },{id: "nav-projects",
-              title: "projects",
-              description: "A growing collection of your cool projects.",
-              section: "Navigation",
-              handler: () => {
-                window.location.href = "/projects/";
-              },
             },{id: "nav-repositories",
               title: "repositories",
               description: "",
@@ -841,12 +848,23 @@ The results demonstrate that our approach can accurately and confidently estimat
               },
             },{id: "nav-cv",
               title: "cv",
-              description: "This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.",
+              description: "",
               section: "Navigation",
               handler: () => {
                 window.location.href = "/cv/";
               },
-            },{id: "post-ai-perception-gap-from-tragedy-to-closure-how-ai-identified-plane-crash-victims",
+            },{id: "post-xyx",
+          
+            title: "XYX",
+          
+          description: "",
+          section: "Posts",
+          handler: () => {
+            
+              window.location.href = "/blog/2024/xyx/";
+            
+          },
+        },{id: "post-ai-perception-gap-from-tragedy-to-closure-how-ai-identified-plane-crash-victims",
           
             title: "AI Perception Gap: From Tragedy to Closure—How AI Identified Plane Crash Victims",
           
@@ -877,6 +895,17 @@ The results demonstrate that our approach can accurately and confidently estimat
           handler: () => {
             
               window.location.href = "/blog/2024/apg-00/";
+            
+          },
+        },{id: "post-my-test-blog",
+          
+            title: "My Test Blog",
+          
+          description: "",
+          section: "Posts",
+          handler: () => {
+            
+              window.location.href = "/blog/2024/my-test-blog/";
             
           },
         },{id: "news-a-simple-inline-announcement",

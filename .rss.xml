@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html">
+    <channel>
+        <title><![CDATA[Stories by Ben Barlow  on Medium]]></title>
+        <description><![CDATA[Stories by Ben Barlow  on Medium]]></description>
+        <link>https://medium.com/@ben-j-barlow?source=rss-39bbf166c45e------2</link>
+        <image>
+            <url>https://cdn-images-1.medium.com/fit/c/150/150/1*dmbNkD5D-u45r44go_cf0g.png</url>
+            <title>Stories by Ben Barlow  on Medium</title>
+            <link>https://medium.com/@ben-j-barlow?source=rss-39bbf166c45e------2</link>
+        </image>
+        <generator>Medium</generator>
+        <lastBuildDate>Thu, 05 Dec 2024 08:25:29 GMT</lastBuildDate>
+        <atom:link href="https://medium.com/@ben-j-barlow/feed" rel="self" type="application/rss+xml"/>
+        <webMaster><![CDATA[yourfriends@medium.com]]></webMaster>
+        <atom:link href="http://medium.superfeedr.com" rel="hub"/>
+        <item>
+            <title><![CDATA[XYX]]></title>
+            <link>https://medium.com/@ben-j-barlow/xyx-a910259283f3?source=rss-39bbf166c45e------2</link>
+            <guid isPermaLink="false">https://medium.com/p/a910259283f3</guid>
+            <category><![CDATA[ai-perception-gap]]></category>
+            <dc:creator><![CDATA[Ben Barlow ]]></dc:creator>
+            <pubDate>Thu, 05 Dec 2024 07:56:11 GMT</pubDate>
+            <atom:updated>2024-12-05T07:56:11.433Z</atom:updated>
+            <content:encoded><![CDATA[<h3>XYXY</h3><p>jjjjjjj</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=a910259283f3" width="1" height="1" alt="">]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[My Test Blog]]></title>
+            <link>https://medium.com/@ben-j-barlow/my-test-blog-55af3372fa3c?source=rss-39bbf166c45e------2</link>
+            <guid isPermaLink="false">https://medium.com/p/55af3372fa3c</guid>
+            <dc:creator><![CDATA[Ben Barlow ]]></dc:creator>
+            <pubDate>Thu, 14 Nov 2024 07:58:17 GMT</pubDate>
+            <atom:updated>2024-12-05T07:53:32.185Z</atom:updated>
+            <content:encoded><![CDATA[<p>This is a temporary blog to test the embedding of Medium articles on my website.</p><p>This is here</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=55af3372fa3c" width="1" height="1" alt="">]]></content:encoded>
+        </item>
+    </channel>
+</rss>

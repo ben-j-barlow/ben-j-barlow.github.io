@@ -3,8 +3,8 @@ layout: post
 title: My MSc Dissertation Project at Stanford University
 date: 2024-11-18 16:40:16
 description: A reflective blog on my dissertation project, in-particular my three week trip to California.
-tags:
-categories: reflection
+tags: reflection
+categories: 
 featured: true
 ---
 

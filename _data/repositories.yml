@@ -3,7 +3,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - ben-j-barlow/clustree
+  - ben-j-barlow/html-report
 
 research_github_repos:
   - ben-j-barlow/geophy-min-ex

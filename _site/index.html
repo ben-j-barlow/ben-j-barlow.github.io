@@ -159,16 +159,6 @@
             
           
             
-              
-                
-                <li class="nav-item ">
-                  
-                  <a class="nav-link" href="/projects/">projects
-                    
-                  </a>
-                </li>
-              
-            
           
             
               
@@ -238,7 +228,7 @@
         Barlow
       
     </h1>
-    <p class="desc"><a href="#">Affiliations</a>. Address. Contacts. Motto. Etc.</p>
+    <p class="desc">Data Scientist at <a href="#">FC Laboratories Ltd</a></p>
   </header>
 
   <article>
@@ -263,7 +253,7 @@
       <source class="responsive-img-srcset" srcset="/assets/img/prof_pic-480.webp 480w,/assets/img/prof_pic-800.webp 800w,/assets/img/prof_pic-1400.webp 1400w," type="image/webp" sizes="(min-width: 930px) 270.0px, (min-width: 576px)
       30vw, 95vw">
     
-    <img src="/assets/img/prof_pic.jpg?974957d202f671e4fa6700c04e68deae" class="img-fluid z-depth-1
+    <img src="/assets/img/prof_pic.jpg?2ac137480029feece0ef00cfbc98ff4d" class="img-fluid z-depth-1
       rounded" width="100%" height="auto" alt="prof_pic.jpg" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </source></picture>
 
@@ -283,7 +273,7 @@
 
 <p>In industry, I have 3 years of experience in Python development, data analysis, and ML. I’ve gained these skills during professional roles at a FinTech, HealthTech, and in a research environment at the University of Edinburgh’s School of Informatics.</p>
 
-<p>I use my personal website to express my passion in data and AI, provide a portfolio of projects, and provide insights into my personal interests. I value my values passion and honesty above all else.</p>
+<p>My personal site aims to reshape Gen Z’s perception of artificial intelligence and its applications through my blog, <a href="/blog/category/ai-perception-gap/">AI Perception Gap</a>. It also serves as a platform to highlight my portfolio of projects and explore my personal interests.</p>
 </div>
 
     <!-- News -->
@@ -297,10 +287,19 @@
       <div class="news">
   
     
-    <div class="table-responsive">
+    <div class="table-responsive" style="max-height: 60vw">
       <table class="table table-sm table-borderless">
         
         
+        
+          <tr>
+            <th scope="row" style="width: 20%">Dec 05, 2024</th>
+            <td>
+              
+                <a class="news-title" href="/blog/2024/xyx/">XYX</a>
+              
+            </td>
+          </tr>
         
           <tr>
             <th scope="row" style="width: 20%">Nov 19, 2024</th>
@@ -316,15 +315,6 @@
             <td>
               
                 <a class="news-title" href="/blog/2024/my-msc-dissertation/">My MSc Dissertation Project at Stanford University</a>
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Nov 17, 2024</th>
-            <td>
-              
-                <a class="news-title" href="/blog/2024/apg-00/">AI Perception Gap: Introducing my new blog!</a>
               
             </td>
           </tr>
@@ -362,7 +352,7 @@
 
       
       
-        Last updated: November 25, 2024.
+        Last updated: December 05, 2024.
       
     </div>
   </footer>
@@ -602,13 +592,6 @@
               handler: () => {
                 window.location.href = "/research/";
               },
-            },{id: "nav-projects",
-              title: "projects",
-              description: "A growing collection of your cool projects.",
-              section: "Navigation",
-              handler: () => {
-                window.location.href = "/projects/";
-              },
             },{id: "nav-repositories",
               title: "repositories",
               description: "",
@@ -618,12 +601,23 @@
               },
             },{id: "nav-cv",
               title: "cv",
-              description: "This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.",
+              description: "",
               section: "Navigation",
               handler: () => {
                 window.location.href = "/cv/";
               },
-            },{id: "post-ai-perception-gap-from-tragedy-to-closure-how-ai-identified-plane-crash-victims",
+            },{id: "post-xyx",
+          
+            title: "XYX",
+          
+          description: "",
+          section: "Posts",
+          handler: () => {
+            
+              window.location.href = "/blog/2024/xyx/";
+            
+          },
+        },{id: "post-ai-perception-gap-from-tragedy-to-closure-how-ai-identified-plane-crash-victims",
           
             title: "AI Perception Gap: From Tragedy to Closure—How AI Identified Plane Crash Victims",
           
@@ -654,6 +648,17 @@
           handler: () => {
             
               window.location.href = "/blog/2024/apg-00/";
+            
+          },
+        },{id: "post-my-test-blog",
+          
+            title: "My Test Blog",
+          
+          description: "",
+          section: "Posts",
+          handler: () => {
+            
+              window.location.href = "/blog/2024/my-test-blog/";
             
           },
         },{id: "news-a-simple-inline-announcement",
