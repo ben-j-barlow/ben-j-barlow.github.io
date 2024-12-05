@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist at <a href='#'>FC Laboratories Ltd</a>
+subtitle: Data Scientist at <a href='https://www.brainfitfirst.com'>FC Laboratories Ltd</a>
 
 profile:
   align: right
@@ -20,4 +20,4 @@ I earned a Bachelor of Science in Data Science from the University of Warwick in
 
 In industry, I have 3 years of experience in Python development, data analysis, and ML. I've gained these skills during professional roles at a FinTech, HealthTech, and in a research environment at the University of Edinburgh's School of Informatics.
 
-My personal site aims to reshape Gen Z's perception of artificial intelligence and its applications through my blog, <a href='/blog/category/ai-perception-gap/'>AI Perception Gap</a>. It also serves as a platform to highlight my portfolio of projects and explore my personal interests.
+My personal site aims to reshape Gen Z's perception of artificial intelligence and its applications through my blog, <a href='/blog/tag/ai-perception-gap/'>AI Perception Gap</a>. It also serves as a platform to highlight my portfolio of projects and explore my personal interests.

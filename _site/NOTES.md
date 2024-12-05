@@ -8,6 +8,9 @@
 ## Potential future content
 * Academic history comment: My undergraduate studies taught foundations in mathematics, statistics, and computer science. My postgraduate programme comprised statistics courses in Bayesian methods, but was dominated by ML courses in pattern recognition, probabilistic ML, reinforcement learning, and deep learning.
 
+## Help
+* Article for importing medium: https://medium.com/@suman.maity112/how-do-i-cross-post-medium-articles-to-github-pages-powered-by-jekyll-1cdf174bc674
+
 ## Commands
 
 ```

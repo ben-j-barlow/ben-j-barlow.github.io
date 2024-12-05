@@ -25,7 +25,7 @@ nav_order: 4
 
 ## open-source code
 
-<p>the repository below can be seen on PyPI <a href="https://pypi.org/project/html-data-report/">here</a> 
+<p><em>html-report</em> can be seen on PyPI <a href="https://pypi.org/project/html-data-report/">here</a> 
 </p>
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
