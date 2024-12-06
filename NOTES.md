@@ -3,6 +3,7 @@
 ## Removed features 
 * In `cv.md`, removed path to CV PDF (field `cv_pdf: `) which removed PDF logo on CV page.
 * In `config.yml`: edited `jekyll-archives:` from `enabled: [year, tags, categories]` and removed categories
+* In `config.yml`: `enable_darkmode: true` set to false `# enables switching between light/dark modes`
 
 
 ## Potential future content
