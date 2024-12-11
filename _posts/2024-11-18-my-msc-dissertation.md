@@ -58,6 +58,6 @@ Besides the professional gains, June in California is somewhat superior to June 
 
 ## Reflection
 
-I've ticked off a number of typical achievements in my life: from achieving top grades to being elected as 1st XI captain of the University of Warwick Men's Football Club. However, sporting and academic achievements rarely bring me a sense of immense pride. After all, there is always someone with a better mark in academia and someone with more talen on the football pitch.
+I've ticked off a number of typical achievements in my life: from achieving top grades to being elected as 1st XI captain of the University of Warwick Men's Football Club. However, sporting and academic achievements rarely bring me a sense of immense pride. After all, there is always someone with a better mark in academia and someone with more talent on the football pitch.
 
 But, I know no one who had the initiative to set up a dissertation project that aligned with their passions with an external supervisor based at a university they were not enrolled at. This time, my experience was entirely unique, and the sense of pride was striking.
