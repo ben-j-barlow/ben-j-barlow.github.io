@@ -1,0 +1,121 @@
+{
+  "education_description": "Consistently achieved the highest grades available across all levels of academia, with a Distinction in postgraduate studies, a First-Class Honours degree at undergraduate level, and 3 A*s at school. Undergraduate and postgraduate dissertations were both awarded 84%, with my undergraduate project ranking the highest in my class.",
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "url": "https://postgraduate.degrees.ed.ac.uk/?r=site/view&edition=2025&id=107Arti",
+      "area": "",
+      "studyType": "MSc in Artificial Intelligence (Part-time)",
+      "startDate": "2022-09-01",
+      "endDate": "2024-08-31",
+      "score": "Distinction",
+      "courses": ["Machine Learning (Pattern Recognition, RL, DL, Probabilistic ML)", "Statistics (Bayesian Methods, Imputation)"]
+    },
+    {
+      "institution": "University of Warwick",
+      "location": "Coventry, UK",
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-data-science/",
+      "area": "",
+      "studyType": "BSc in Data Science",
+      "startDate": "2017-10-01",
+      "endDate": "2020-06-30",
+      "score": "First-class with Honours",
+      "courses": ["Computer Science (OOP, Algorithms, Information Structures)", "Machine Learning (Foundations)", "Mathematics (Linear Algebra, Multivariate Calculus)", "Probability (Foundations, Stochastic Modelling)", "Statistics (Foundations, Frequentist Approaches, GLMs)"]
+    }    
+  ],
+  "work": [
+    {
+      "name": "FC Laboratories Limited",
+      "position": "Data Scientist (Part-time)",
+      "url": "https://www.linkedin.com/company/fclabs/",
+      "startDate": "2023-10",
+      "endDate": "",
+      "summary": "A part-time role alongside postgraduate studies. Working on a contractual basis, having received two contract extensions.",
+      "location": "Edinburgh, UK"
+    },
+    {
+      "name": "Data Science Unit, School of Informatics, University of Edinburgh",
+      "position": "Python Developer (Part-time)",
+      "url": "https://web.inf.ed.ac.uk/data-science-unit/about-us",
+      "startDate": "2023-01",
+      "endDate": "2023-04",
+      "summary": "A part-time role alongside postgraduate studies. Streamlined the school's in-house Data Science Unit's research projects by creating a bespoke graph plotting library.",
+      "highlights": [],
+      "location": "Edinburgh, UK"
+    },
+    {
+      "name": "Account Technologies",
+      "position": "Decision Scientist",
+      "url": "https://www.accounttechnologies.com",
+      "startDate": "2020-10",
+      "endDate": "2022-07",
+      "summary": "Interacted with transactional, credit bureau, operational, financial, compliance, marketing, and customer data using Python to develop bespoke packages and the PyData stack to visualise data, train machine learning models, and report on business metrics.",
+      "location": "London, UK",
+      "highlights": []
+    },
+    {
+      "name": "Thomas Miller",
+      "position": "Actuarial Intern",
+      "url": "https://www.thomasmiller.com",
+      "startDate": "2019-07",
+      "endDate": "2019-08",
+      "summary": "Assisted with programming, data analysis, and statistical modelling tasks for businesses within the Thomas Miller Group. The actuarial team at Thomas Miller was a combination of an in-house team and a consultancy; they provided actuarial services to over 15 companies within the Thomas Miller Group.",
+      "location": "London, UK",
+      "highlights": []
+    },
+    {
+      "name": "Prudential Plc",
+      "position": "Natural Language Processing Intern",
+      "url": "https://www.prudentialplc.com/en",
+      "startDate": "2018-09",
+      "endDate": "2018-09",
+      "summary": "Supervised by the Head of Data Analytics within the Risk & Compliance department, completed independent project which aimed to gain insight into the FCA's news feed by applying methods of text analytics to a web-scraped corpus.",
+      "location": "London, UK",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Warwick Men's Football Club",
+      "location": "Coventry, UK",
+      "position": "1st XI Captain",
+      "url": "https://example.com",
+      "startDate": "2019-04-01",
+      "endDate": "2020-04-01",
+      "summary": "Responsible for the day-to-day football-related operations of 4 teams (80 players) and led the 1st team on match days.",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dissertation Award",
+      "date": "2020-06-30",
+      "awarder": "School of Statistics, University of Warwick",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Received a cash prize for attaining the highest dissertation mark in the BSc Data Science cohort."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Python",
+      "icon": ""
+    },
+    {
+      "language": "SQL",
+      "icon": ""
+    },
+    {
+      "language": "R",
+      "icon": ""
+    },
+    {
+      "language": "Julia",
+      "icon": ""
+    },
+    {
+      "language": "Java",
+      "icon": ""
+    }
+  ]
+}
