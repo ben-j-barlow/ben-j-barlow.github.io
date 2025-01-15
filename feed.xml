@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-13T19:41:45+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Ben Barlow&apos;s personal website
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-15T17:22:22+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Ben Barlow&apos;s personal website
 </subtitle><entry><title type="html">AI Perception Gap: How AI is Revolutionising the Hunt for Critical Battery Metals</title><link href="http://localhost:4000/blog/2025/apg-blog-02/" rel="alternate" type="text/html" title="AI Perception Gap: How AI is Revolutionising the Hunt for Critical Battery Metals" /><published>2025-01-06T16:40:16+11:00</published><updated>2025-01-06T16:40:16+11:00</updated><id>http://localhost:4000/blog/2025/apg-blog-02</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-02/"><![CDATA[<h2 id="the-problem">The Problem</h2>
 
 <p>The race towards a greener future — dependent on battery production and the electric vehicle (EV) revolution — hinges on four critical elements from the periodic table: <strong>Copper, Lithium, Cobalt, and Nickel</strong>. But why these four?</p>
@@ -276,7 +276,7 @@
     
       <source class="responsive-img-srcset" srcset="/assets/img/blog/2024/quad-480.webp 480w,/assets/img/blog/2024/quad-800.webp 800w,/assets/img/blog/2024/quad-1400.webp 1400w," type="image/webp" sizes="95vw" />
     
-    <img src="/assets/img/blog/2024/quad.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/blog/2024/quad.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -298,7 +298,7 @@
     
       <source class="responsive-img-srcset" srcset="/assets/img/blog/2024/coffee-480.webp 480w,/assets/img/blog/2024/coffee-800.webp 800w,/assets/img/blog/2024/coffee-1400.webp 1400w," type="image/webp" sizes="95vw" />
     
-    <img src="/assets/img/blog/2024/coffee.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/blog/2024/coffee.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -320,7 +320,7 @@
     
       <source class="responsive-img-srcset" srcset="/assets/img/blog/2024/golf-480.webp 480w,/assets/img/blog/2024/golf-800.webp 800w,/assets/img/blog/2024/golf-1400.webp 1400w," type="image/webp" sizes="95vw" />
     
-    <img src="/assets/img/blog/2024/golf.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/blog/2024/golf.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -351,7 +351,7 @@
     
       <source class="responsive-img-srcset" srcset="/assets/img/blog/2024/mustang-480.webp 480w,/assets/img/blog/2024/mustang-800.webp 800w,/assets/img/blog/2024/mustang-1400.webp 1400w," type="image/webp" sizes="95vw" />
     
-    <img src="/assets/img/blog/2024/mustang.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/blog/2024/mustang.jpeg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
