@@ -1,0 +1,30 @@
+{%- comment -%} 
+  social_sidebar.liquid - Fixed social media sidebar
+  Include in your layout file using: {% include social_sidebar.liquid %}
+{%- endcomment -%}
+
+{%- assign assign github_username = site.github_username | default: nil -%}
+{%- assign linkedin_username = site.linkedin_username | default: nil -%}
+{%- assign email = site.email | default: nil -%}
+
+<div class="fixed-sidebar d-none d-lg-block">
+  <div class="sidebar-content">
+    {% if github_username %}
+    <a class="sidebar-item" href="https://github.com/{{ github_username }}" title="GitHub" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-github"></i>
+    </a>
+    {% endif %}
+
+    {% if linkedin_username %}
+    <a class="sidebar-item" href="https://www.linkedin.com/in/{{ linkedin_username }}" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-linkedin-in"></i>
+    </a>
+    {% endif %}
+
+    {% if email %}
+    <a class="sidebar-item" href="mailto:{{ email }}" title="Email">
+      <i class="fas fa-envelope"></i>
+    </a>
+    {% endif %}
+  </div>
+</div>
