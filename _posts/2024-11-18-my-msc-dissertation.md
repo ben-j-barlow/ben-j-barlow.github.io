@@ -34,13 +34,13 @@ The experience was truly exceptional. AI research lab [SISL](https://sisl.stanfo
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/2024/quad.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/2024/quad.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/2024/coffee.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/2024/coffee.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/2024/golf.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/2024/golf.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 <p style="width: 100%; margin-top: 10px; font-style: italic; color: #666; text-align: center;">Started my time on campus by taking in the iconic view from The Oval (left), before settling into a routine of enjoying my morning coffee on the balcony of SISL's office (centre) and ending the day with a well-earned trip to the university’s driving range (right).</p>
@@ -52,7 +52,7 @@ As well as the academics I worked with directly, I met some incredible other peo
 Besides the professional gains, June in California is somewhat superior to June in Edinburgh. Downtime was spent enjoying rounds at Stanford University Golf Course or supporting the Three Lions in the European Championships at a local English pub. To conclude the trip, I took a two-day, Top Gear-style drive, drifting across empty roads with amazing views in a convertible Mustang. I explored San Francisco's bustling streets; crossed the Golden Gate Bridge; snapped pictures of Bay Area views; and rounded it off by drinking a bottle of red from Sonoma Valley in Sonoma Valley itself.
 
 <figure class="post-figure">
-    {% include figure.liquid loading="eager" path="assets/img/blog/2024/mustang.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/blog/2024/mustang.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
     <figcaption>A stunning road between the Golden Gate and Sonoma Valley.</figcaption>
 </figure>
 
