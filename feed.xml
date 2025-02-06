@@ -1,5 +1,159 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-23T21:59:20+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Ben Barlow&apos;s personal website
-</subtitle><entry><title type="html">AI Perception Gap: How AI is Revolutionising the Hunt for Critical Battery Metals</title><link href="http://localhost:4000/blog/2025/apg-blog-02/" rel="alternate" type="text/html" title="AI Perception Gap: How AI is Revolutionising the Hunt for Critical Battery Metals" /><published>2025-01-06T16:40:16+11:00</published><updated>2025-01-06T16:40:16+11:00</updated><id>http://localhost:4000/blog/2025/apg-blog-02</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-02/"><![CDATA[<h2 id="the-problem">The Problem</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-06T23:21:11+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Ben Barlow&apos;s personal website
+</subtitle><entry><title type="html">AI Perception Gap: AI Policing Reinforces and Exacerbates Societal Inequality</title><link href="http://localhost:4000/blog/2025/apg-blog-03/" rel="alternate" type="text/html" title="AI Perception Gap: AI Policing Reinforces and Exacerbates Societal Inequality" /><published>2025-02-06T16:40:16+11:00</published><updated>2025-02-06T16:40:16+11:00</updated><id>http://localhost:4000/blog/2025/apg-blog-03</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-03/"><![CDATA[<h2 id="the-ai-we-fear-vs-the-ai-we-miss">The AI We Fear vs. The AI We Miss</h2>
+
+<p><em>“When the robots take over, I’m blaming you!”</em></p>
+
+<p>I’d just mentioned my plans to pursue postgraduate studies in Artificial Intelligence whilst sitting in the bar of a Mexican hostel. As I <a href="https://ben-j-barlow.github.io/blog/2024/ai-perception-gap-introducing-my-new-blog/">wrote</a> earlier, my fellow backpackers consistently responded to my AI ambitions with a chorus of dystopian predictions. The pattern was always the same — educated twenty-somethings, raised in tech-savvy countries, all convinced that AI meant the end of the world. Through these conversations, two things became clear: AI was viewed by <strong>Gen Z</strong> as <strong>tomorrow’s problem</strong>, and <strong>tomorrow’s threat</strong>.</p>
+
+<p>Two thousand miles north and <strong>a decade earlier</strong>, a different kind of AI story was already unfolding in Reading, Pennsylvania. At 41.3%, the city had the highest poverty rate in the USA in 2011. Inequality and crime were endemic in Reading’s society. With a growing need for greater policing capabilities, the force were instead forced to cut head count by forty-five officers due to the economic aftermath of the 2008 financial crisis. Desperation led the force’s chief to hunt for efficiency increases and he found the perfect solution: an <strong>artificial intelligence system</strong> designed to <strong>increase police efficiency</strong>, <strong>reduce crime</strong>, and — rather impressively — <strong>remove human prejudice</strong> from policing. A year after deployment, the police was overjoyed to report massive efficiency gains. Yet beneath these impressive reports lay a troubling reality: the <strong>system was silently perpetuating discrimination</strong> against certain ethnic groups.</p>
+
+<p>The gap between perception and reality is stark. In Mexico, travelers feared for AI <strong>catastrophes</strong> and they expected them <strong>tomorrow</strong>. Meanwhile, in Reading (and other cities in the USA and UK), an AI system built with <strong>noble intentions</strong> was silently reinforcing societal inequalities <strong>today</strong>. The true threat of AI isn’t in science fiction — it’s in the seemingly benign algorithms already operating in our communities.</p>
+
+<figure class="post-figure">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/blog/2025/apg_03_hostel_bar-480.webp 480w,/assets/img/blog/2025/apg_03_hostel_bar-800.webp 800w,/assets/img/blog/2025/apg_03_hostel_bar-1400.webp 1400w," type="image/webp" sizes="95vw" />
+    
+    <img src="/assets/img/blog/2025/apg_03_hostel_bar.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" alt="A photo taken from a hostel rooftop with a view of the city and mountains in Oaxaca, Meixco" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    <figcaption>The view from a hostel's rooftop bar in Oaxaca, Mexico.</figcaption>
+</figure>
+
+<h2 id="readings-digital-police-force">Reading’s Digital Police Force</h2>
+
+<h3 id="predpol-birth-of-an-algorithm">PredPol: Birth of an Algorithm</h3>
+
+<p>Reading’s police force wasn’t seeking a technological revolution — they were simply trying to survive budget cuts. What they got was a <strong>crime prediction</strong> software — from California big data start-up PredPol — that transformed their city into a grid of colour-coded, sports pitch-sized cells, with each cell’s colour corresponding to the probability of crime occurrence. The logic was compelling: <strong>let AI direct a smaller police force to where they’re needed most</strong>, maintaining public safety despite budget cuts.</p>
+
+<p>Beyond efficiency gains, PredPol promised to <strong>revolutionise the fairness</strong> of policing itself. Human officers, shaped by years of media exposure and societal influences, inevitably carry unconscious biases that can affect their policing decisions. By replacing human intuition with AI-driven deployment, Reading police could <strong>eliminate human bias</strong>. PredPol’s designers built their system on just two neutral features: the location and timing of previous crimes. The individuals behind crimes, as well as their <strong>race</strong> and <strong>ethnicity</strong>, were <strong>deliberately excluded</strong> from the algorithm, in what the designers trumpeted as a foolproof safeguard against bias.</p>
+
+<hr class="dots" />
+
+<h3 id="numbers-dont-lie-or-do-they">Numbers Don’t Lie (Or Do They?)</h3>
+
+<p>The system was immediately successful with <strong>burglaries in Reading down by 23% within a year</strong> of deployment. PredPol’s success quickly resonated beyond Reading’s borders. In 2013, <strong>police in Kent, UK</strong>, adopted PredPol’s system and within a year reported its targeted predictions to be <strong>ten times more effective than random patrolling</strong>. The system’s elegant interface made it instantly accessible to officers and it seemed to deliver on its promise of fairer policing, replacing human intuition with data–driven decisions.</p>
+
+<p>On paper, it seemed flawless. A data-driven system making objective decisions based purely on time and location. But as we’ll see, this apparent success story would reveal one of AI’s most insidious capabilities: the power to <strong>automate and amplify existing social biases while maintaining an illusion of objectivity</strong>.</p>
+
+<figure class="post-figure">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/blog/2025/apg_03_numbers-480.webp 480w,/assets/img/blog/2025/apg_03_numbers-800.webp 800w,/assets/img/blog/2025/apg_03_numbers-1400.webp 1400w," type="image/webp" sizes="95vw" />
+    
+    <img src="/assets/img/blog/2025/apg_03_numbers.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" alt="A photo of a laptop with a series of green numbers reflecting the running of an algorithm" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+</figure>
+
+<h3 id="beneath-the-algorithm">Beneath the Algorithm</h3>
+
+<p>Before we dig into PredPol’s mistakes, here’s a quick technical lesson. AI systems are like young children learning to play a game: they are given an <strong>objective</strong> (what to achieve) and <strong>training data</strong> (examples to learn from). They analyse the examples (often millions of them) to learn how to achieve the objective.</p>
+
+<h4 id="the-devil-in-the-data">The Devil in the Data</h4>
+
+<p>Consider the simple example of chess. After analysing millions of games, AI learns which sequences of moves increase the likelihood of winning. If two chess players whom never learned that knights can jump over other pieces played millions of games, the resulting dataset would hide one of chess’s powerful tactics. Any AI learning from this data would be blind to the power of a knight in defence and attack. AI simply cannot learn patterns it is not exposed to (some AI systems actually can learn unseen patterns, but the technology used by PredPol cannot).</p>
+
+<p>Imagine two identical crimes: one committed in a heavily policed, disadvantaged neighbourhood, the other in an affluent area with minimal police presence. The first crime becomes a data point, the second remains invisible to the system. Multiply this effect across decades of policing, and you have a <strong>dataset that paints certain communities as inherently criminal</strong> while others appear crime-free. PredPol’s system can’t learn about crime patterns in areas where historical data is sparse. Instead, it simply reinforces existing patrol patterns, guiding police to the same disadvantaged communities which in turn produces more crime data points, creating a self-perpetuating cycle of surveillance and enforcement.</p>
+
+<h4 id="predpols-flawed-goals">PredPol’s Flawed Goals</h4>
+
+<p>The training data’s flaws were just the beginning. PredPol’s fundamental objective proved equally problematic. While a chess AI’s goal is trivial (to win the game), choosing an objective in real-world settings is often more nuanced. Consider a self-driving car with only one instruction: avoid collisions. The simplest way to achieve that? Never leave the garage. AI systems do exactly what they are trained to do, and <strong>PredPol trained their AI to maximise arrests by intelligently optimising police patrol</strong>.</p>
+
+<p><strong>But do more arrests mean safer streets? Not necessarily.</strong> The system’s singular focus on sending officers where arrests are likely just reinforces old patterns. Real policing isn’t just about cracking down — it’s about building trust, keeping communities safe before crimes happen. The role of a <strong>data scientist</strong> is to <strong>encode qualitative objectives</strong> like trust numerically (an extremely difficult challenge), thereby allowing an AI system to reflect real-world objectives. Instead, model designers at PredPol took the <strong>easy route</strong> and used the numerically available objective of arrests. Wealthy, degree-holding data scientists took the path of least resistance, and the cost of their convenience fell squarely on the poor.</p>
+
+<figure class="post-figure">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/blog/2025/apg_03_white_collar_crime-480.webp 480w,/assets/img/blog/2025/apg_03_white_collar_crime-800.webp 800w,/assets/img/blog/2025/apg_03_white_collar_crime-1400.webp 1400w," type="image/webp" sizes="95vw" />
+    
+    <img src="/assets/img/blog/2025/apg_03_white_collar_crime.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" alt="A photo of a man in a suit with handcuffs to represent white-collar crime" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+</figure>
+
+<h3 id="white-collar-dark-data-predpols-blind-spots">White Collar, Dark Data: PredPol’s Blind Spots</h3>
+
+<p>Now imagine if this algorithmic intensity targeted <strong>white-collar crime</strong>.</p>
+
+<p>In the 2000s, financial leaders orchestrated frauds that shattered the global economy, leaving millions without jobs, homes, and healthcare. These crimes, orchestrated from pristine offices rather than dark alleys, caused more devastation than any street offense PredPol was built to prevent. Yet from their <strong>training to their bulletproof vests</strong>, police are designed to <strong>operate on the streets</strong>, not in boardrooms. Agencies chasing white-collar crime — like the FBI — have struggled for years to get close to bankers. The finance industry’s wealth and powerful lobbies ensure it remains significantly underpoliced, while AI systems like PredPol’s continue directing resources towards already over-policed communities. Rich bankers dodged arrests in the past, wealthy data scientists craft AI systems that embed historical arrest patterns in the present, and disadvantaged communities continue to face discrimination in the future. Inequality becomes code, poverty becomes data — and Silicon Valley celebrates their “efficiency gains’’ over $200 bottles of Dom Pérignon.</p>
+
+<hr class="dots" />
+
+<h2 id="the-price-of-automated-policing">The Price of Automated Policing</h2>
+
+<p>Back in that <strong>Mexican hostel bar</strong>, my fellow travelers painted vivid pictures of <strong>superintelligent machines rising against humanity</strong>. While they envisioned spectacular science fiction scenarios, <strong>real AI systems</strong> like PredPol’s had already been reshaping communities through the quiet power of <strong>algorithmic bias</strong> for a decade.</p>
+
+<p>PredPol’s designers proudly built a system that <strong>ignored race and ethnicity</strong> and focused on geography instead. Yet in our highly segregated cities, they overlooked a critical detail: <strong>geography itself serves as a powerful proxy for race</strong>. The system dutifully directs officers to the same neighbourhoods, generating more arrests, creating more data points, and perpetuating a <strong>self-fulfilling prophecy of “high-crime areas”</strong>.</p>
+
+<p>The AI challenge isn’t spotting killer robots; it’s developing the nuanced understanding needed to <strong>recognise and address hidden algorithmic biases</strong> before they become embedded in our social fabric. The future my fellow travelers feared may never come to pass, but the present they missed is <strong>already here</strong>.</p>
+
+<figure class="post-figure">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/blog/2025/apg_03_wmd.webp" sizes="95vw" />
+    
+    <img src="/assets/img/blog/2025/apg_03_wmd.webp" class="img-fluid rounded z-depth-1" width="100%" height="auto" alt="Front cover of Weapons of Math Destruction" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    <figcaption>Cathy O'Neil's book <a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction">Weapons of Math Destruction</a>.</figcaption>
+</figure>
+
+<h2 id="appendix---weapons-of-math-destruction">Appendix - Weapons of Math Destruction</h2>
+
+<p>Mathematics Ph.D. graduate <a href="https://cathyoneil.org/">Cathy O’Neil</a> coins the term <em>Weapons of Math Destruction (WMDs)</em> to describe mathematical models like PredPol’s. WMDs are designed with the very best intentions but due to misunderstandings during design, they unintentionally punish the poor. They operate in bulk and are cheap to run, hence, multiplying the negative impact on society. To learn about more examples of WMDs inceasing inequality in credit scoring, insurance applications, and job hunting, I point you to Cathy O’Neil’s New York Times best-seller <em><a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction" style="color: var(--global-theme-color);">Weapons of Math Destruction;</a></em> Chapter 5 of which is about PredPol!</p>]]></content><author><name></name></author><category term="ai-perception-gap" /><summary type="html"><![CDATA[An AI system designed to nullify human prejudice from the police force ended up reinforcing and exacerbating the very inequalities it was meant to overcome.]]></summary></entry><entry><title type="html">AI Perception Gap: How AI is Revolutionising the Hunt for Critical Battery Metals</title><link href="http://localhost:4000/blog/2025/apg-blog-02/" rel="alternate" type="text/html" title="AI Perception Gap: How AI is Revolutionising the Hunt for Critical Battery Metals" /><published>2025-01-06T16:40:16+11:00</published><updated>2025-01-06T16:40:16+11:00</updated><id>http://localhost:4000/blog/2025/apg-blog-02</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-02/"><![CDATA[<h2 id="the-problem">The Problem</h2>
 
 <p>The race towards a greener future — dependent on battery production and the electric vehicle (EV) revolution — hinges on four critical elements from the periodic table: <strong>Copper, Lithium, Cobalt, and Nickel</strong>. But why these four?</p>
 
