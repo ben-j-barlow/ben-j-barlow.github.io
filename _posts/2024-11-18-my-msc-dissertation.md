@@ -5,7 +5,7 @@ date: 2024-11-18 16:40:16
 description: A reflection on my dissertation project experience, in-particular my three week trip to California.
 tags: reflection
 categories: 
-featured: true
+featured: false
 ---
 
 **Well, that was the coolest professional experience of my life...**
