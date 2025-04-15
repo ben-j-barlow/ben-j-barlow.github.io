@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist at <a href='https://www.brainfitfirst.com'>FC Laboratories Ltd</a>
+subtitle: Software Developer at <a href='https://www.rokoscapital.com'>Rokos Capital Management</a> (via <a href='https://www.neptunenorth.co.uk'>Neptune North</a>)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Melbourne, Aus
+    Newcastle, UK
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
