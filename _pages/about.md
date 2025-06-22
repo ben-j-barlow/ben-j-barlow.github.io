@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Developer at <a href='https://www.rokoscapital.com'>Rokos Capital Management</a> (consulting via <a href='https://www.neptunenorth.co.uk'>Neptune North</a>)
+subtitle: Data Engineer at <a href='https://www.rokoscapital.com'>Rokos Capital Management</a> (consulting via <a href='https://www.neptunenorth.co.uk'>Neptune North</a>)
 
 profile:
   align: right
