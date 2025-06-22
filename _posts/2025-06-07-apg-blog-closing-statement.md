@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Perception Gap: The Journey Concludes'
 date: 2025-06-07 05:40:16
-description: "A wrap up of my the six-part series and a reflection on the initial aim: addressing the gap in Gen Z's perception of AI."
+description: "A reflection on the six-part series that aimed to address the gap in Gen Z's perception of AI."
 tags: ai-perception-gap reflection
 categories: 
 ---
