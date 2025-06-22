@@ -1,5 +1,180 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-04-15T21:58:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Ben Barlow&apos;s personal website
-</subtitle><entry><title type="html">AI Perception Gap: AGI and the Modern Cold War</title><link href="http://localhost:4000/blog/2025/apg-blog-05/" rel="alternate" type="text/html" title="AI Perception Gap: AGI and the Modern Cold War" /><published>2025-04-06T06:40:16+01:00</published><updated>2025-04-06T06:40:16+01:00</updated><id>http://localhost:4000/blog/2025/apg-blog-05</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-05/"><![CDATA[<h2 id="the-new-weapon-of-global-power-agi">The New Weapon of Global Power: AGI</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-06-22T19:06:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Ben Barlow&apos;s personal website
+</subtitle><entry><title type="html">AI Perception Gap: The Journey Concludes</title><link href="http://localhost:4000/blog/2025/apg-blog-closing-statement/" rel="alternate" type="text/html" title="AI Perception Gap: The Journey Concludes" /><published>2025-06-07T06:40:16+01:00</published><updated>2025-06-07T06:40:16+01:00</updated><id>http://localhost:4000/blog/2025/apg-blog-closing-statement</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-closing-statement/"><![CDATA[<h2 id="ai-perception-gaps-aim">AI Perception Gap’s Aim</h2>
+
+<p>This blog concludes the six-part <a href="https://ben-j-barlow.github.io/blog/tag/ai-perception-gap/">AI Perception Gap</a> series I introduced in November 2024. In that <a href="https://ben-j-barlow.github.io/blog/2024/ai-perception-gap-introducing-my-new-blog/">first entry</a>, I expressed my <strong>astonishment at Gen Z’s perception of AI</strong> — observed during a backpacking trip to Latin America — with this reflection:</p>
+
+<p><em>Educated individuals, from my very generation (not my grandparents!), who were born and raised in wealthy economies where AI is booming, and no one had a clue about the monumental positive impact the technology can and will have on society at a global scale! The perception gap was born…</em></p>
+
+<p>The problem? Most of Gen Z’s perception was built by <strong>mainstream media’s doom-and-gloom</strong> obsession. In Latin America, I found myself discussing AI’s positive potential with backpacker after backpacker. Watching their attitudes transform from <strong>fear to fascination</strong> was so rewarding that I felt compelled to <strong>amplify this mission</strong> through blogging. My goal was crystal clear: make my friends and the rest of Gen Z <strong>aware of the positive potential of AI</strong> and prove that “AI” doesn’t automatically mean “killer robots destined to destroy humanity”.</p>
+
+<hr class="dots" />
+
+<h2 id="positive-impacting-ai">Positive Impacting AI</h2>
+
+<p>Since announcing my aim in November 2024, I’ve addressed the AI Perception Gap by showing that, when aligned with human goals, AI can:</p>
+
+<ol>
+  <li><strong>identify human fragments</strong> in the aftermath of a plane crash (<a href="https://ben-j-barlow.github.io/blog/2024/apg-blog-01/">edition 1</a>),</li>
+  <li>assist with <strong>discovering critical minerals</strong> (<a href="https://ben-j-barlow.github.io/blog/2025/apg-blog-02/">edition 2</a>),</li>
+  <li>decode the structures of over 200 million proteins, <strong>reinventing drug discovery</strong> (<a href="https://ben-j-barlow.github.io/blog/2025/apg-blog-04/">edition 4</a>),</li>
+  <li>uncover the atomic blueprint of <strong>materials</strong> that could <strong>reshape entire industries</strong> (<a href="https://ben-j-barlow.github.io/blog/2025/apg-blog-06/">edition 6</a>).</li>
+</ol>
+
+<p>In each case, AI accomplished what human cognition alone couldn’t — or what would have required the coordination of millions of superhuman brains. The world’s most brilliant scientists spend a lifetime mastering just one domain, often with little exposure to others. AI, on the other hand, achieves superhuman performance in one field at one moment, and seamlessly shifts to another field — with equally impressive performance — the next. This level of cross-domain proficiency isn’t just impressive — <strong>it’s the very essence of what makes AI revolutionary</strong>.</p>
+
+<hr class="dots" />
+
+<h2 id="negative-impacting-ai">Negative Impacting AI</h2>
+
+<p>While most of this series explored AI’s positive potential, editions 3 and 5 addressed its risks. This was necessary since closing the AI Perception Gap requires the confrontation of Gen Z’s fears.</p>
+
+<p>I categorise these into <strong><em>loud fears</em></strong>  — AGI going full sci-fi villain — and <strong><em>quiet fears</em></strong> — like hidden algorithmic bias embedded in decision-making systems.</p>
+
+<p>In <a href="https://ben-j-barlow.github.io/blog/2025/apg-blog-03/">edition 3</a>, we explored how <strong>AI can quietly reinforce inequality</strong> (a quiet fear). PredPol, a policing tool built with good intentions, was trained on biased historical data and repeatedly deployed officers into already over-policed communities. The designers had noble goals but made a crucial oversight — they didn’t account for how their data reflected existing social inequalities. As AI systems become woven into the fabric of public life, we desperately need designers who understand both the mathematics of machine learning and the messy realities of human society.</p>
+
+<p><a href="https://ben-j-barlow.github.io/blog/2025/apg-blog-05/">Edition 5</a>, on the other hand, leaned into the fear most often voiced by Gen Z: AGI with lethal autonomy. We imagined a system that identifies threats from satellite feeds, drafts tactical plans, and executes strikes with drone swarms — all without human input. Gen Z’s fear is valid, but this reality is not destiny. What gives me <strong>hope</strong> is that <strong>democratic nations</strong> are treating this like nuclear tech: seriously, cautiously, and collaboratively, with guardrails already taking shape. Just as nuclear deterrence has prevented catastrophe for decades, coordinated regulation and transparent safety efforts can do the same for AGI.</p>
+
+<hr class="dots" />
+
+<h2 id="did-ai-perception-gap-achieve-its-aim">Did AI Perception Gap Achieve It’s Aim?</h2>
+
+<p>That’s for <strong>you</strong>, the reader, to answer! If you’re still reading at my eigth (and final!) entry, I’d love to hear how your perceptions changed during the series. I’ve spent over 100 hours on this project; any sense of reward would no doubt put a smile on my face!</p>
+
+<p>Anyhow, I hope you too were smiling whilst reading: <strong>AI Perception Gap, over and out.</strong></p>]]></content><author><name></name></author><category term="ai-perception-gap" /><category term="reflection" /><summary type="html"><![CDATA[A wrap up of my the six-part series and a reflection on the initial aim: addressing the gap in Gen Z's perception of AI.]]></summary></entry><entry><title type="html">AI Perception Gap: Atomic Architects — How AI is Redesigning Our Physical World</title><link href="http://localhost:4000/blog/2025/apg-blog-06/" rel="alternate" type="text/html" title="AI Perception Gap: Atomic Architects — How AI is Redesigning Our Physical World" /><published>2025-06-06T06:40:16+01:00</published><updated>2025-06-06T06:40:16+01:00</updated><id>http://localhost:4000/blog/2025/apg-blog-06</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-06/"><![CDATA[<h2 id="the-materials-we-desperately-need">The Materials We Desperately Need</h2>
+
+<h4 id="material-dreamland">Material Dreamland</h4>
+<p>Imagine a world where long-distance power lines lose no energy, electric cars charge in seconds, quantum computers hum away in every research lab, and frictionless, levitating trains zip between continents at blistering speeds. Discovering a <strong>room-temperature superconductor</strong>, a material referred to as the <strong>‘holy grail’ of physics</strong>, would be nothing short of revolutionary. But achieving it isn’t just about genius scientists in labs; it’s increasingly about AI working alongside them to redefine the limits of <strong>materials science</strong>.</p>
+
+<p>Suppose a researcher were to imagine a shopping list of desired properties for a material capable of transforming an entire industry (e.g., plastic that biodegrades quickly). Could AI design the desired material’s atomic structure, use a digital model to prove the material has the desired properties, and even produce the material in the real world? In the paragraphs ahead, we’ll explore how academics and pioneering companies at the forefront of materials science are transforming our physical world with AI.</p>
+
+<h4 id="what-is-a-superconductor">What is a superconductor?</h4>
+
+<p>Firstly, a <strong><em>conductor</em></strong> is a material that allows <strong>electric current to flow</strong>. As you may recall from physics lessons at school, electric current is essentially the <strong>movement of electrons</strong> — however, this movement isn’t perfectly efficient. As electrons travel through a conductor — like the copper wiring found in household electrical circuits — they sometimes collide with vibrating atoms in the material. These collisions cause some of the electrical energy to be converted into heat — this is known as <strong><em>electrical resistance</em></strong>. The longer the wire, the more collisions occur, and the more energy is lost as heat.</p>
+
+<p>A <strong><em>superconductor</em></strong>, on the other hand, is a special type of conductor in which this energy loss does not occur. The phenomenon was first discovered in 1911, when Dutch physicist Heike Kamerlingh Onnes cooled solid mercury to -270°C and observed that its electrical resistance disappeared entirely. Since then, scientists have identified various materials that become superconductors when cooled below a specific threshold, known as their <em>critical temperature</em>.</p>
+
+<h4 id="why-would-a-room-temperature-superconductor-be-transformational">Why would a room-temperature superconductor be transformational?</h4>
+
+<p>A <strong><em>room-temperature superconductor</em></strong> is a material that offers zero electrical resistance in ambient conditions. The material doesn’t need to be cooled to extreme <strong>temperatures</strong> or operate at a demanding air <strong>pressure</strong> for electrical resistance to vanish. Such a development has immense potential, especially in our transition to a <strong>renewable energy grid</strong>.</p>
+
+<p>We’ve designed our energy system to keep the wires short: move the fossil fuels close to the cities, burn them there, and distribute the electricity locally.</p>
+
+<p>With renewables, we cannot transport sunlight and wind to city-based power plants in the same way we can fossil fuels. We are instead forced to create electricity in the deserts, oceans, and mountain ranges rich with renewable sources. The primary obstacle to achieving a fully renewable grid is not the availability of natural resources, but the challenge of transmitting electricity over extremely long distances. Electrical resistance at that scale is not just inefficient; it’s a dealbreaker.</p>
+
+<p>Room-temperature superconductors would change this entirely. Electricity could travel thousands of kilometres without any loss. We could harness <strong>solar power from the Sahara, wind in the North Sea, hydro in the Alps, and transmit it all over Europe without waste</strong>. It’s not just an upgrade — it would be a redefinition of what’s possible in global energy systems.</p>
+
+<p>And that’s just one application of one material. A room-temperature superconductor could revolutionise computing, transportation, energy storage, and healthcare, to name a few. All the while, material scientists are hunting for many other transformational materials, such as biodegradable packaging, high energy density batteries, and self-cleaning surfaces (to repel contaminants in medical implants).</p>
+
+<hr class="dots" />
+
+<h2 id="material-science">Material Science</h2>
+
+<p>To understand how we could discovery breakthrough materials like these, we turn to materials science — a field that blends physics, chemistry, and engineering to <strong>explain why materials behave the way they do</strong>. Material scientists study how atoms respond to forces or environments depending on their arrangement. This understanding allows us to achieve specific functions for materials by tailoring the arrangement of atoms.</p>
+
+<p>Of particular importance are <strong><em>stable materials</em></strong>, often called crystals. Stability is linked to the energy required to break bonds or trigger chemical changes. Material stability is crucial because unstable substances degrade, deform, or react unpredictably, limiting their usefulness in engineering and design.</p>
+
+<p>Think of a stable material as a calm person in a crisis — someone who stays composed even under pressure, heat, or chaos. The person who remains calmest is considered the most stable. In material science, the most stable materials are prized for everything from spacecraft to smartphones. These are the materials that scientists hope to discover.</p>
+
+<hr class="dots" />
+
+<h2 id="discovering-new-materials">Discovering New Materials</h2>
+
+<h4 id="trial-error-and-centuries-of-waiting">Trial, Error, and Centuries of Waiting</h4>
+
+<p>At the field’s inception, material scientists discovered new materials through <strong>trial and error</strong>. Early ironworkers discovered that iron, when heated in charcoal, became stronger and harder. The heating process caused carbon from charcoal to diffuse into the surface of iron, leading to the production of <strong>primitive forms of steel</strong>. This discovery occurred during the Iron Age (long before atomic structure of a material could be understood), with evidence of steel production found in Anatolia (modern-day Turkey) as early as 13th century BC. </p>
+
+<p>As the field progressed, material scientists used <strong>intuition</strong> to develop new materials. For instance, if a certain oxide had useful properties, they’d try similar oxides with other elements. Further, materials were often discovered by subjecting elements to extreme conditions, in terms of temperature and pressure, and observing unexpected behaviors.</p>
+
+<p>From the late 19th century, <strong>microscopic technology</strong> allowed scientists to see microstructures and atomic arrangements. These helped correlate structure with properties, for example, why certain alloys were tougher or more malleable.</p>
+
+<h4 id="computational-methods">Computational Methods</h4>
+
+<p>Following the introduction of the computer in the 1950s, <strong>computational materials science</strong> garnered increasing attention. By the 1970s, scientists were able to <strong>predict the properties</strong> of solid-state materials digitally using an algorithm called <strong>density functional theory (DFT)</strong>. Given the atomic structure, scientists could understand the material without having to physically create it in the real world.</p>
+
+<p>Initially, the electronic, magnetic, and chemical properties of simple materials could be predicted using DFT with relative ease. As computational power increased, materials scientists began modeling the behavior of far more complex substances. A landmark example of DFT’s impact was its accurate prediction of the exceptional electronic properties of silicon. This insight fueled a surge of research in the 1980s — and now, silicon is at the heart of the memory and processing chips in the device you’re using to read this blog.</p>
+
+<hr class="dots" />
+
+<h2 id="ai-unleashed-the-discovery-explosion">AI Unleashed: The Discovery Explosion</h2>
+
+<p><strong>Google DeepMind</strong> (introduced in <a href="https://ben-j-barlow.github.io/blog/2025/apg-blog-04/">AI Perception Gap: Unlocking Biology’s Secrets with AlphaFold</a>) is working at the cutting edge of this field. Its AI model, GNoME, <strong>identified 2.2 million potential crystal structures</strong> — unique atomic arrangements predicted to be stable. Of these, 380,000 are classified as highly stable. For context, <strong>humans discovered around 20,000</strong> stable crystals through experimentation since early pioneers discovered steel in the Iron Age. Computational methods later expanded our stable materials universe to 48,000. GNoME has <strong>nearly tenfolded</strong> this number, taking us past 400,000 — massively boosting our chances of finding breakthroughs like a room-temperature superconductor.</p>
+
+<figure class="post-figure">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/blog/2025/apg_06_gnome_discoveries.webp" sizes="95vw" />
+    
+    <img src="/assets/img/blog/2025/apg_06_gnome_discoveries.webp" class="img-fluid rounded z-depth-1" width="100%" height="auto" alt="A venn diagram showing that GNoME has produced 421,000 stable materials compared to 48,000 produced with previous computational methods" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    <figcaption>About 20,000 of the crystals experimentally identified in the ICSD database are computationally stable. Computational approaches drawing from the Materials Project, Open Quantum Materials Database and WBM database boosted this number to 48,000 stable crystals. GNoME expands the number of stable materials known to humanity to 421,000. Image credit: <a href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning">Google DeepMind</a>.</figcaption>
+</figure>
+
+<p>Although promising new materials can be identified at scale
+with technology, synthesising them in the real world is
+often challenging and time-consuming. As of November 2023, scientists had produced 736 of the 421,000 candidates shared by DeepMind. That may seem like a drop in the ocean, but it marks meaningful progress. Thanks to digital tools that estimate how promising a material might be, researchers can prioritise only the most likely successes for real-world synthesis.</p>
+
+<p>Even more impressively, robots are now helping turn theory into reality. At Berkeley Lab’s A-Lab, <strong>AI-driven robots work 24/7 to create materials</strong> in powder form in the real world. The lab begins by selecting candidate compounds identified through AI tools at Google DeepMind and other organisations. Language models (think ChatGPT) trained on vast materials science corpora then generate detailed experimental protocols. Then, <strong>robotic systems follow these recipes</strong> in fully automated workflows — measuring, heating, mixing, and analysing compounds with machine precision. In a <a href="https://www.nature.com/articles/s41586-023-06734-w">published study</a>, A-Lab reported synthesising 41 out of 58 materials in 17 days.</p>
+
+<figure class="post-figure">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/blog/2025/apg_06_berk_lab.webp" sizes="95vw" />
+    
+    <img src="/assets/img/blog/2025/apg_06_berk_lab.webp" class="img-fluid rounded z-depth-1" width="100%" height="auto" alt="A robotic arm at synthesising new materials in a lab" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    <figcaption>A-Lab, a facility at Berkeley Lab, USA, where artificial intelligence guides robots in making new materials. Image credit: Marilyn Sargent/Berkeley Lab.</figcaption>
+</figure>
+
+<p>Let that sink in: AI dreamed up a material that never existed, predicted how it would behave, devised the instructions to synthesise it in our physical world, and then guided a robot to bring it into existence.</p>
+
+<hr class="dots" />
+
+<h2 id="the-age-of-inverse-engineering">The Age of Inverse Engineering</h2>
+
+<p>With advancements being made from research groups and innovative companies around the world, <strong>inverse design</strong> is set to become the pinnacle of computational materials science. The desired properties — like high electrical conductivity, thermal stability, or optical transparency — are declared first, then AI selects the elements from the periodic table and the required structure to achieve the list of desired properties.</p>
+
+<p>I invite the reader to spend 70 seconds listening to Pushmeet Kohli, VP of Science Research at Google DeepMind, discuss this vision.</p>
+
+<figure class="post-figure">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BfDACxrdAvQ?si=0fWI51LjEKv4k-hd&amp;start=855" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+    <figcaption>Pushmeet Kohli, VP of Science Research at Google DeepMind, discusses the future of materials science. I recommend listening for 70 seconds until timestamp 15:28.</figcaption>
+</figure>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p><em>Okay, I am well over 100 hours deep of blog writing and I’m getting tired. It’s time for AI to write an entire paragraph in my final edition of my AI blog. I’m going to put my feet up.</em></p>
+
+<p>From early blacksmithing to autonomous laboratories, the journey of materials science has always been shaped by the tools at our disposal. Today, AI and robotics are radically accelerating that journey — unlocking not just the promise of room-temperature superconductors, but a wide array of transformative innovations. We’re designing self-cleaning surfaces that repel contaminants in medical implants, high energy density batteries that could reshape electric mobility, and biodegradable packaging to address global sustainability challenges. The ability to explore millions of materials digitally — and rapidly test the most promising ones in the real world — means that breakthroughs once considered speculative are edging toward inevitability.</p>
+
+<p>*This wraps up the AI Perception Gap; find a reflection on the six-part series <a href="/blog/2025/apg-blog-closing-statement/">here</a>.</p>]]></content><author><name></name></author><category term="ai-perception-gap" /><summary type="html"><![CDATA[From dreaming up new materials to building them with robots — AI is transforming our physical world.]]></summary></entry><entry><title type="html">AI Perception Gap: AGI and the Modern Cold War</title><link href="http://localhost:4000/blog/2025/apg-blog-05/" rel="alternate" type="text/html" title="AI Perception Gap: AGI and the Modern Cold War" /><published>2025-04-06T06:40:16+01:00</published><updated>2025-04-06T06:40:16+01:00</updated><id>http://localhost:4000/blog/2025/apg-blog-05</id><content type="html" xml:base="http://localhost:4000/blog/2025/apg-blog-05/"><![CDATA[<h2 id="the-new-weapon-of-global-power-agi">The New Weapon of Global Power: AGI</h2>
 
 <p>Imagine an AI that could debate philosophy, orchestrate strategic decisions in warfare, and pass the bar exam — all in the same afternoon. That’s the idea behind <strong>artificial general intelligence (AGI)</strong>: AI that can <strong>match or surpass human capabilities</strong> across <strong>many domains</strong> simultaneously.</p>
 
