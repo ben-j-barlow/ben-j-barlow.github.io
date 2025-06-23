@@ -13,7 +13,7 @@ This blog concludes the six-part [AI Perception Gap](https://ben-j-barlow.github
 
 *Educated individuals, from my very generation (not my grandparents!), who were born and raised in wealthy economies where AI is booming, and no one had a clue about the monumental positive impact the technology can and will have on society at a global scale! The perception gap was born…*
 
-The problem? Most of Gen Z's perception was built by **mainstream media's doom-and-gloom** obsession. In Latin America, I found myself discussing AI's positive potential with backpacker after backpacker. Watching their attitudes transform from **fear to fascination** was so rewarding that I felt compelled to **amplify this mission** through blogging. My goal was crystal clear: make my friends and the rest of Gen Z **aware of the positive potential of AI** and prove that “AI” doesn't automatically mean "killer robots destined to destroy humanity".
+The problem? Most of Gen Z's perception of AI was built by **mainstream media's doom-and-gloom** obsession. In Latin America, I found myself discussing AI's positive potential with backpacker after backpacker. Watching their attitudes transform from **fear to fascination** was so rewarding that I felt compelled to **amplify this mission** through blogging. My goal was crystal clear: make my friends and the rest of Gen Z **aware of the positive potential of AI** and prove that “AI” doesn't automatically mean "killer robots destined to destroy humanity".
 
 <hr class="dots">
 
@@ -42,8 +42,8 @@ In [edition 3](https://ben-j-barlow.github.io/blog/2025/apg-blog-03/), we explor
 
 <hr class="dots">
 
-## Did AI Perception Gap Achieve It's Aim?
+## Did AI Perception Gap Achieve Its Aim?
 
-That's for **you**, the reader, to answer! If you're still reading at my eigth (and final!) entry, I'd love to hear how your perceptions changed during the series. I've spent over 100 hours on this project; any sense of reward would no doubt put a smile on my face!
+That's for **you**, the reader, to answer! If you're still reading at my eighth (and final!) entry, I'd love to hear how your perceptions changed during the series. I've spent over 100 hours on this project; any sense of reward would no doubt put a smile on my face!
 
 Anyhow, I hope you too were smiling whilst reading: **AI Perception Gap, over and out.**
