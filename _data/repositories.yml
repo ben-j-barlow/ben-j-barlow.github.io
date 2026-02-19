@@ -4,8 +4,12 @@ repo_description_lines_max: 2
 
 github_repos:
   - ben-j-barlow/html-report
+  - ben-j-barlow/clustree
 
 research_github_repos:
   - ben-j-barlow/geophy-min-ex
   - ben-j-barlow/caps-net-project
   - ben-j-barlow/rcbmm
+
+experimental_github_repos:
+  - ben-j-barlow/sandbox

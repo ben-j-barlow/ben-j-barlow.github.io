@@ -25,7 +25,8 @@ nav_order: 4
 
 ## open-source code
 
-<p><em>html-report</em> can be seen on PyPI <a href="https://pypi.org/project/html-data-report/">here</a> 
+<p><em>html-report</em> and <em>clustree</em> can respectively be found on PyPI <a href="https://pypi.org/project/html-data-report/">here</a> and <a href="https://pypi.org/project/clustree/">here</a>.<br />
+While no longer actively maintained, these projects remain as examples of my Python package development expertise and previous work.
 </p>
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -43,6 +44,20 @@ nav_order: 4
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.research_github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
+
+{% if site.data.repositories.experimental_github_repos %}
+
+---
+
+## experimental code
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.experimental_github_repos %}
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
